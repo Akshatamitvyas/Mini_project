@@ -97,4 +97,4 @@ It is very necessary to identify what are the **Strength, Weakness, Opportunity*
 * For performing the samll transation.
 
 ### How:
-* It can act like a toy for the Engeering sstudent.
+* It can act like a toy for the Engeering student.
