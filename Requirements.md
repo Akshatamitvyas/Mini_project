@@ -83,17 +83,18 @@ It is very necessary to identify what are the **Strength, Weakness, Opportunity*
 1. As it is not secured so details might get leaked.
 2. It is device dependent.
 
-## Who:
-* Small and medium size clinics Providing Covid vaccinations to patients
+## 4W and 1h 
+### Who:
+* It can help the people by learn about the bank's software.
 
-## What:
-* Many Clinics are not able to afford high end HMS or ERP systems and hence still depend on manual filing systems. During COVID vaccinations it becomes a tedious task to manage every patient with hand written file system
+### What:
+* Nowadays for the student who are eager to learn each and everything it can help them.
 
-## When:
-* This problem began in February 2021, when COVID Vaccination Drive began and small/medium clinics will soon have to administer vaccinations to people.
+### When:
+* It is mock system to understand the working of Bank.
 
-## Where:
-* This problem is expected to surface in all states of India.
+### Where:
+* For performing the samll transation.
 
-## How:
-* This problem may cause ineffective vaccine management and hence there can be a huge amount of vaccine wastage. As per recent data in cities like Noida and Delhi till date 9%-18% vaccines have gone to waste.
+### How:
+* It can act like a toy for the Engeering sstudent.
