@@ -51,6 +51,8 @@ In the phase My project Bank Management System also has different phase like:
 * Few systems already exists with which our system will interact
     * Bank management Application
     * Analytics
+
+![Description](https://github.com/Akshatamitvyas/Mini_project/blob/main/Diagram.png)
 ### Explanation:
 * Bank Management System have few inbuilt features like:
     * Create a new account
