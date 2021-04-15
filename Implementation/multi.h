@@ -207,7 +207,7 @@ void transact(void)
 
             if(add.acc_no==transaction.acc_no)
             {   test=1;
-                if(strcmp(add.acc_type,"fixed1")==0||strcmpi(add.acc_type,"fixed2")==0||strcmpi(add.acc_type,"fixed3")==0)
+                if(strcmp(add.acc_type,"fixed1")==0||strcmp(add.acc_type,"fixed2")==0||strcmp(add.acc_type,"fixed3")==0)
                 {
                     printf("\a\a\a\n\nYOU CANNOT DEPOSIT OR WITHDRAW CASH IN FIXED ACCOUNTS!!!!!");
                     fordelay(1000000000);
@@ -407,7 +407,7 @@ void see(void)
                         intrst=interest(time,add.amt,rate);
                         printf("\n\nYou will get $.%.2f as interest on %d/%d/%d",intrst,add.deposit.month,add.deposit.day,add.deposit.year+1);
                     }
-                else if(strcmpi(add.acc_type,"fixed2")==0)
+                else if(strcmp(add.acc_type,"fixed2")==0)
                     {
                         time=2.0;
                         rate=11;
@@ -450,7 +450,7 @@ void see(void)
             see_invalid:
               printf("\nEnter 0 to try again,1 to return to main menu and 2 to exit:");
               scanf("%d",&main_exit);
-              system("cls");
+              //system("cls");
                  if (main_exit==1)
                     menu();
                 else if (main_exit==2)
