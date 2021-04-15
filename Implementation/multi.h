@@ -166,7 +166,7 @@ void edit(void)
     rename("new.dat","record.dat");
 
 if(test!=1)
-        {   system("cls");
+        {   //system("cls");
             printf("\nRecord not found!!\a\a\a");
             edit_invalid:
               printf("\nEnter 0 to try again,1 to return to main menu and 2 to exit:");
