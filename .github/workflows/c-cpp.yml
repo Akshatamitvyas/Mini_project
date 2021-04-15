@@ -13,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: main.c
+    - name: /Implementation/main.c
       run:  /Implementation
