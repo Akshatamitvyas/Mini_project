@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: gcc main.c -o main
-      run: ./main
     - name: make
       run: make -C Mini_project/Implementation
     - name: make check
