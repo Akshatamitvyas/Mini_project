@@ -6,4 +6,6 @@
 
 [![cppcheck-action](https://github.com/Akshatamitvyas/Mini_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Akshatamitvyas/Mini_project/actions/workflows/cppcheck.yml)
 
+[![Valgrind](https://github.com/Akshatamitvyas/Mini_project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Akshatamitvyas/Mini_project/actions/workflows/Valgrind.yml)
+
 Taking some help from CodewithC plateform.
