@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdio.h>
 #include<string.h>
-#include<windows.h>
+
 int i,j;
 int main_exit;
 void menu();
