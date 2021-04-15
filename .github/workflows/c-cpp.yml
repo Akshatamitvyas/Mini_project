@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make -C https://github.com/Akshatamitvyas/Mini_project/tree/main/Implementation
+      run: make -C Mini_project/tree/main/Implementation
 
