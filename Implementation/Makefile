@@ -1,4 +1,4 @@
 all:
-	gcc main.c -o main
+	gcc multi.h main.c -o main
 run: 
-	./main.exe 
+	./$main.exe 
