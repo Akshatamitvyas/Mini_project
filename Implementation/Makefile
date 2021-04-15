@@ -9,8 +9,8 @@ ifdef OS
    EXEC = exe
 else
    ifeq ($(shell uname), Linux)
-	  EXEC = out
-   endif
+   EXEC = out
+endif
 endif
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).$(EXEC)
