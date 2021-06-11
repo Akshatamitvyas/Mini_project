@@ -10,4 +10,4 @@
 
 [![Contribution Check - Git Inspector](https://github.com/Akshatamitvyas/Mini_project/actions/workflows/Git_inpector.yml/badge.svg)](https://github.com/Akshatamitvyas/Mini_project/actions/workflows/Git_inpector.yml)
 
-Taking some help from CodewithC plateform.
+Taking some help from @CodewithC plateform.
